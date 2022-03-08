@@ -1,0 +1,15 @@
+:root {
+  --primary-color: blue;
+  --primary-font-color: white;
+  --secondary-color: hotpink;
+  --neutral-color: #212121;
+  --accent-color: turquoise;
+  --ghost-color: grey;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  background: seashell;
+}
