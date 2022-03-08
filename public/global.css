@@ -1,10 +1,10 @@
 :root {
-  --primary-color: blue;
+  --primary-color: #5e06f6;
   --primary-font-color: white;
   --secondary-color: hotpink;
   --neutral-color: #212121;
   --accent-color: turquoise;
-  --ghost-color: grey;
+  --ghost-color: #d3d3d3;
 }
 
 body {
